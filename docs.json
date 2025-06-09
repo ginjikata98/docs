@@ -9,19 +9,30 @@
   },
   "navigation": {
     "tabs": [
-              {
-          "tab": "Payment",
-          "groups": [
-            {
-                          "group": "Payment Methods",
+      {
+        "tab": "Feature",
+        "groups": [
+          {
+            "group": "Updates",
+            "pages": [
+              "feature/change-log"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Payment",
+        "groups": [
+          {
+            "group": "Payment Methods",
             "pages": [
               "payment/card",
               "payment/crypto",
               "payment/telegram"
             ]
-            }
-          ]
-        },
+          }
+        ]
+      },
       {
         "tab": "Legal",
         "groups": [
