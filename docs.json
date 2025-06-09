@@ -13,11 +13,12 @@
           "tab": "Payment",
           "groups": [
             {
-              "group": "Payment Methods",
-              "pages": [
-                "payment/crypto",
-                "payment/telegram"
-              ]
+                          "group": "Payment Methods",
+            "pages": [
+              "payment/card",
+              "payment/crypto",
+              "payment/telegram"
+            ]
             }
           ]
         },
