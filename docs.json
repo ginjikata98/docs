@@ -9,6 +9,18 @@
   },
   "navigation": {
     "tabs": [
+              {
+          "tab": "Payment",
+          "groups": [
+            {
+              "group": "Payment Methods",
+              "pages": [
+                "payment/crypto",
+                "payment/telegram"
+              ]
+            }
+          ]
+        },
       {
         "tab": "Legal",
         "groups": [
@@ -27,7 +39,7 @@
       "anchors": [
         {
           "anchor": "Community",
-          "href": "https://dopaminegirl.com/membership/discord",
+          "href": "https://dopaminegirl.com/rpc/link.discord",
           "icon": "discord"
         }
       ]
